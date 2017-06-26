@@ -5,7 +5,7 @@ a Vue table component using easy syntax to display complex data with minimum con
 ```
 vue_lazy_table(:table_data = "devices")
 ```
-
+![](http://i.imgur.com/ssqx26G.png)
 ### settings with row , support alias and post handler
 
 ```
@@ -30,7 +30,7 @@ conclude_table_rows: [
 ]
 
 ```
-
+![](http://i.imgur.com/pw4DTXO.png)
 
 ### settings config
 
@@ -44,6 +44,7 @@ vue_lazy_table(:table_data = "conclude_table"
           
 
 ```
+![](http://i.imgur.com/undefined.png)
 
 ## first commit with feature:
 1. auto key extraction from raw json array data
