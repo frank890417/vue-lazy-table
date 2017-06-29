@@ -1,6 +1,11 @@
 # vue_lazy_table
 a Vue table component using easy syntax to display complex data with minimum configutation
 
+### Why vue-lazy table? 
+Sometimes we get so many types of data from backend. When we feel lazy of Lableing all exist column to generate form, vue-lazy-table is a nice choice to minimum props that need to be specified, all you need to do is pass the data.
+
+![](http://i.imgur.com/YS0OAUc.png)
+
 ### minimum setting , auto key labeling
 ```
 vue_lazy_table(:table_data = "devices")
